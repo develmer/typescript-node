@@ -1,18 +1,11 @@
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
 <a name="readme-top"></a>
 
-<!-- PROJECT SHIELDS -->
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <span><i class="devicon-nodejs-plain-wordmark"></i></span>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-<!-- TABLE OF CONTENTS -->
-<details>
-    <summary>Table of Contents</summary>
-    <ol>
-        
-    </ol>
-</details>
+  <h3 align="center">Best-README-Template</h3>
+</div>
