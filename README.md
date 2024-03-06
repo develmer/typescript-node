@@ -15,7 +15,11 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#getting-started">Getting Started</a></li>
+        <ul>
+          <li><a href="#prerequisites">Prerequisites</a></li>
+          <li><a href="#setup-instruction">Installation</a></li>
+        </ul>
       </ul>
     </li>
   </ol>
@@ -25,4 +29,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-### Built With
+## Getting Started
+
+### Prerequisites
+
+### Setup Instruction
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
