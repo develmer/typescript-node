@@ -4,8 +4,8 @@
   <!-- PROJECT LOGO -->
   <br />
   <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="200" height="200" />&nbps;&nbps;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="200" height="200" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="200" height="200" /><br />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="200" height="200" />
     <br/>
     <h1 align="center">SETUP TYPESCRIPT WITH NODE.JS</h1>
   
